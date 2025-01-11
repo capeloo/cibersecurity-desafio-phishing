@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./prova.jpg "Optional title")
+![Alt text](./prova.png "Optional title")
