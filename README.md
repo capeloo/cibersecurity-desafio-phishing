@@ -15,10 +15,12 @@
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
+- (passos adicionais contra defesa do facebook) nano /root/.set/web_clone/index.html
+- (passos adicionais contra defesa do facebook) excluir script
 
 ### Resutados
 
 ![Alt text](./prova.png "Optional title")
 
 ### Defesa Facebook
-->O site do facebook possui atualmente defesa contra scripts maliciosos, logo foi necessário excluir o script do arquivo criado pelo setoolkit para a captura dos dados. 
+- O site do facebook possui atualmente defesa contra scripts maliciosos, logo foi necessário excluir o script do arquivo criado pelo setoolkit para a captura dos dados. 
