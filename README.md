@@ -23,4 +23,6 @@
 ![Alt text](./prova.png "Optional title")
 
 ### Defesa Facebook
-- O site do facebook possui atualmente defesa contra scripts maliciosos, logo foi necessário excluir o script do arquivo criado pelo setoolkit para a captura dos dados. 
+-> O site do facebook possui atualmente defesa contra scripts maliciosos, logo foi necessário excluir o script do arquivo criado pelo setoolkit para a captura dos dados. 
+
+![Alt text](./erro.png "Optional title")
